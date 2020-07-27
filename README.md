@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hi there is Alex👋
+- 🌱 I hope you can something you want in [my blog](https://prometheus-code.github.io/)
+- ⚡ enjoy your time
 
+![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
 <!--
 **prometheus-code/prometheus-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
